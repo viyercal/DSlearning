@@ -19,5 +19,5 @@ Other projects that I've built include:
   Data structures projects related to graphs, trees, and linkedlists
   Plants vs Zombies style game
 
-  The bottom five projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
+  The last five projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
   
