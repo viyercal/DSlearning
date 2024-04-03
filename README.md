@@ -1,5 +1,5 @@
 # DSlearning
-A repo that stores some of the datascience learning projects I've embarked on, including building LLMs &amp; NNs from scratch
+A repo that stores some of the datascience learning projects I've embarked on, including building LLMs &amp; NNs from scratch. All in Python unless otherwise noted.
 
 Quick notes on each project:
 
@@ -14,9 +14,9 @@ Neural Network from Scratch:
 Other projects that I've built include:
   Football betting ATS (against the spread) model leveraging neural networks, random forests & decision trees, XGBoost en route to accuracy surpassing 538's open source model
   Pacman adversarial agent gameplay strategies
-  2D world generation & basic navigation/gameplay
-  Google N-gram Viewer functionality
-  Data structures projects related to graphs, trees, and linkedlists
+  2D world generation & basic navigation/gameplay (Java)
+  Google N-gram Viewer functionality (Java)
+  Data structures projects related to graphs, trees, and linkedlists (Java)
   Plants vs Zombies style game
 
   The last five projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
