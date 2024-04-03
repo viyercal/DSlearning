@@ -11,7 +11,7 @@ Neural Network from Scratch:
   Implementation of Samson Zhang's neural network from scratch Youtube video, using numpy as the foundational package as opposed to Pytorch or Tensorflow. Implemented to ground my understanding of the mathmatics behind neural networks, activation functions, etc. 
 
 
-Other Projects I've built include:
+Other projects that I've built include:
   Football betting ATS (against the spread) model leveraging neural networks, random forests & decision trees, XGBoost en route to accuracy surpassing 538's open source model
   Pacman adversarial agent gameplay strategies
   2D world generation & basic navigation/gameplay
