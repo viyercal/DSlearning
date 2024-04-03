@@ -1,5 +1,5 @@
 # DSlearning
-A repo that stores datascience learning projects I've embarked on, including building LLMs &amp; NNs from scratch
+A repo that stores some of the datascience learning projects I've embarked on, including building LLMs &amp; NNs from scratch
 
 Quick notes on each project:
 
