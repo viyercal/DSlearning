@@ -73,8 +73,9 @@ test_data, test_labels = load_cifar_batch(test_batch_file)
 
 #----------------------------------------------------------------------------------
 
-#Setup for the Conv Net Block: - This takes heavy inspiration from: 
+#Setup for the Conv Net Block: - This is pretty much directly from: 
 #https://www.youtube.com/watch?v=Lakz2MoHy6o&ab_channel=TheIndependentCode
+#implemented to learn how convolutional layers work under-the-hood
 class Convolutional_Layer():
     def __init__(self, input_shape, kernel_size, depth):
         #input_shape is a tuple containing the depth, the height, and the width of the input
