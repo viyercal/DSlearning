@@ -10,6 +10,9 @@ NanoGPT LLM:
 Neural Network from Scratch:
   Implementation of Samson Zhang's neural network from scratch Youtube video, using numpy as the foundational package as opposed to Pytorch or Tensorflow. Implemented to ground my understanding of the mathmatics behind neural networks, activation functions, etc. 
 
+Image Classifier Cifar-10:
+  Still in progress, features a custom convolutional neural network with a conv layer built from scratch (implementation from https://www.youtube.com/watch?v=Lakz2MoHy6o&ab_channel=TheIndependentCode). Implemented to learn the underlying mathmatics and design choices within a conv net, and used to bolster my understanding of computer vision basics.
+
 
 Other projects that I've built include:\
   Football betting ATS (against the spread) model leveraging neural networks, random forests & decision trees, XGBoost en route to accuracy surpassing 538's open source model\
