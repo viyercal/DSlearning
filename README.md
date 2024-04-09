@@ -13,6 +13,9 @@ Neural Network from Scratch:
 Image Classifier Cifar-10:
   Still in progress, features a custom convolutional neural network with a conv layer built from scratch (implementation from https://www.youtube.com/watch?v=Lakz2MoHy6o&ab_channel=TheIndependentCode). Implemented to learn the underlying mathmatics and design choices within a conv net, and used to bolster my understanding of computer vision basics.
 
+Superintelligence & AI Agents: AI Existential Risk Implications:
+  My 2023 paper on the existential risk implications presented by AI agents and the potential for superintelligent AI systems.
+
 
 Other projects that I've built include:\
   Football betting ATS (against the spread) model leveraging neural networks, random forests & decision trees, XGBoost en route to accuracy surpassing 538's open source model\
