@@ -24,6 +24,7 @@ Other projects that I've built include:\
   Google N-gram Viewer functionality (Java)\
   Data structures projects related to graphs, trees, and linkedlists (Java)\
   Plants vs Zombies style game
+  U.S. Semiconductor Export Restrictions to China: Viewed from the Lens of AI-risk Analysis (2024)
 
-  The last five projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
+  The last six projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
   
