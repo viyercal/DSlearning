@@ -19,6 +19,7 @@ Superintelligence & AI Agents: AI Existential Risk Implications:
 
 Other projects that I've built include:\
   Football betting ATS (against the spread) model leveraging neural networks, random forests & decision trees, XGBoost en route to accuracy surpassing 538's open source model\
+  Neural network language classification: building RNNs with only linear layers in Pytorch\
   Pacman adversarial agent gameplay strategies\
   2D world generation & basic navigation/gameplay (Java)\
   Google N-gram Viewer functionality (Java)\
@@ -26,5 +27,5 @@ Other projects that I've built include:\
   Plants vs Zombies style game\
   U.S. semiconductor export restrictions to China: viewed from the lens of AI-risk analysis (2024)
 
-  The last six projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
+  The last seven projects (after the football betting model) are school projects that are restricted in visibility due to some of the projects' elements being re-used each semester, however code and results can be provided upon request. 
   
